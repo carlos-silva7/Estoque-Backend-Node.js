@@ -1,0 +1,20 @@
+{
+  "name": "projeto_sistema_estoque",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto - sistema de Estoque(realizando sem code pronto)",
+  "main": "Estoque.js",
+  "scripts": {
+    "dev": "npm nodemon3.1.11",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
